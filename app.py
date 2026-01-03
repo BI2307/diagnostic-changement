@@ -1,4 +1,8 @@
 import streamlit as st
+
+# 🔒 Test temporaire du secret Google
+st.write(st.secrets["GCP_SERVICE_ACCOUNT"])
+import streamlit as st
 import random
 
 st.set_page_config(page_title="Test de Talents Inconscients", layout="centered")
