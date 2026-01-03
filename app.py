@@ -2,6 +2,7 @@ import streamlit as st
 import random
 
 st.set_page_config(page_title="Test de Talents Inconscients", layout="centered")
+
 st.title("🎯 Test de Talents Inconscients")
 st.write("Ce test explore vos forces profondes à travers des images et des réactions spontanées.")
 
